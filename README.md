@@ -21,7 +21,7 @@ git clone [repository URL]
 Open the script and modify the time.sleep duration as needed. The value is in seconds.
 time.sleep([desired duration in seconds])
 
-5.**Run the Script**: Click the "Run" button in PyCharm, and the program will start executing.
+  5. **Run the Script**: Click the "Run" button in PyCharm, and the program will start executing.
 
 
 You can copy this Markdown code into your README.md file on GitHub. It includes code blocks for commands and Python code, making it easy to follow and understand.
