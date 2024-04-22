@@ -5,6 +5,7 @@
 Before running the script, make sure you have the following installed:
 - [PyCharm](https://www.jetbrains.com/community/education/#students) (School Account)
 - Python (comes pre-installed with PyCharm)
+- GOAL: To move the mouse while the computer is unattended
 
 ## Installation
 
